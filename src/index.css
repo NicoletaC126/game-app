@@ -1,0 +1,27 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+:root {
+  --text-dark: #fb8500;
+  --text-light: #ffb703;
+  --text-white: #fff;
+  --text-info: #219ebc;
+
+  --bg-dark: #023047;
+  --bg-light: #8ecae6;
+  --bg-white: #fff;
+
+  --fs-large: 1rem;
+  --fs-medium: 0.875rem;
+  --fs-small: 0.75rem;
+
+  --spacing-xl: 2.625rem;
+  --spacing-large: 1.75rem;
+  --spacing-medium: 1rem;
+  --spacing-small: 0.5rem;
+  --spacing-tiny: 0.25rem;
+}
